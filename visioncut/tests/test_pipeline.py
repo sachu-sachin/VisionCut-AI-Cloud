@@ -18,6 +18,7 @@ import os
 import shutil
 import tempfile
 from pathlib import Path
+from typing import Optional, List, Dict, Any
 
 from visioncut.core.config import AppConfig, PreprocessingSettings
 from visioncut.core.models import (
