@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output renders & staging generated during tests / daily workflow
+VisionCut_Output/
+.staging_demo/
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Temporary files
+*.tmp*
+.temp*
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# IDE & OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
