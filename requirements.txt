@@ -1,0 +1,10 @@
+# VisionCut AI Cloud Dependencies
+PySide6>=6.6.0
+opencv-python>=4.8.0
+numpy>=1.26.0
+pillow>=10.0.0
+ImageHash>=4.3.0
+soundfile>=0.12.0
+imageio-ffmpeg>=0.5.0
+pydantic>=2.5.0
+scipy>=1.11.0
